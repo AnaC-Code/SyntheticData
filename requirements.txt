@@ -1,0 +1,5 @@
+numpy==1.17.5
+pandas==0.25.3
+scikit-learn==0.22
+scipy==1.7.1
+synthpop==0.1.1
