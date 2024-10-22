@@ -4,7 +4,7 @@ REM Collect user input once
 call input.bat
 
 REM Set base path to your project folder
-set "basePath=S:\Thesis\Code_Fixed\Report"
+set "basePath=PathOfTheCode"
 
 REM Set paths to your virtual environments and scripts using the base path
 set "python312Path=%basePath%\env12\Scripts\activate.bat"
