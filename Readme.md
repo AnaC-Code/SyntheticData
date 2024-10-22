@@ -23,7 +23,7 @@ sdv==1.15.0
 ```
 
 ### Running the Project
-To execute the project, you can use the provided batch file `run_script.bat`. Make sure the correct environment is activated before running the script.
+To execute the project, you can use the provided batch file `run_script.bat`. Make sure the correct environments are created before running the script.
 
 ### Additional Notes
 - Ensure Python 3.8 is installed on your system before creating the environments.
